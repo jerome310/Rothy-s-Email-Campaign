@@ -1,9 +1,100 @@
-<tr>
+ <!-- Start of Ecommerce Link -->
+                            <tr>
                                 <td>
-                                    <table class="header-gif" cellspacing="0" cellpadding="0" border="0" align="center">
-                                        <a href="https://rothys.com/collections/womens-new-arrivals?utm_source=Iterable&utm_medium=email&utm_campaign=02192022_DG_Sustainability_ProductPush_DGNL_FF&userId=285202ba0add95b761b56e1c6d0dc6a6&mi_u=285202ba0add95b761b56e1c6d0dc6a6&mi_ecmp=02192022_DG_Sustainability_ProductPush_DGNL_FF"
-                                            target="_blank"><img src="/images/rothy-header.gif"
-                                                alt="Rothy's header image" style="width: 600px"></a>
+                                    <table class="ecommerce-container" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                            
+                                <!-- Start 1st Row Section -->
+                            <tr>
+                                <td align="center">
+                                    <table class="ecommerce-container" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                        <tr>
+                                            <!-- Column 1 -->
+                                            <td class="ecommerce-column" width="50%" align="center" valign="top">
+                                                <a href="https://rothys.com/collections/womens-new-arrivals?utm_source=Iterable&utm_medium=email&utm_campaign=02192022_DG_Sustainability_ProductPush_DGNL_FF&userId=285202ba0add95b761b56e1c6d0dc6a6&mi_u=285202ba0add95b761b56e1c6d0dc6a6&mi_ecmp=02192022_DG_Sustainability_ProductPush_DGNL_FF"
+                                                    target="_blank">
+                                                    <img src="/images/women's-new-arrival.png" alt="Women's new shoe arrivals"
+                                                        style="width:100%; max-width:600px; height:auto; display:block; margin:0 auto;">
+                                                </a>
+                                            </td>
+                            
+                                            <!-- Column 2 -->
+                                            <td class="ecommerce-column" width="50%" align="center" valign="top">
+                                                <a href="https://rothys.com/collections/womens-best-sellers?utm_source=Iterable&utm_medium=email&utm_campaign=02192022_DG_Sustainability_ProductPush_DGNL_FF&userId=285202ba0add95b761b56e1c6d0dc6a6&mi_u=285202ba0add95b761b56e1c6d0dc6a6&mi_ecmp=02192022_DG_Sustainability_ProductPush_DGNL_FF"
+                                                    target="_blank">
+                                                    <img src="/images/women's-best-sellers.png" alt="Women's best seller shoes"
+                                                        style="width:100%; max-width:600px; height:auto; display:block; margin:0 auto;">
+                                                </a>
+                                            </td>
+                                        </tr>
                                     </table>
                                 </td>
                             </tr>
+                                <!-- End 1st Row Section -->
+
+
+                            
+                                        <!-- Start 2nd Row Section -->
+                                        <tr>
+                                            <td align="center">
+                                                <!-- Column 3 -->
+                                                <table class="ecommerce-three-image" width="50%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center">
+                                                            <a href="https://rothys.com/collections/womens-shoes?utm_source=Iterable&utm_medium=email&utm_campaign=02192022_DG_Sustainability_ProductPush_DGNL_FF&userId=285202ba0add95b761b56e1c6d0dc6a6&mi_u=285202ba0add95b761b56e1c6d0dc6a6&mi_ecmp=02192022_DG_Sustainability_ProductPush_DGNL_FF"
+                                                                target="_blank">
+                                                                <img src="/images/women's-shoes.png" alt="Women shoes" style="width:300px;">
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                            
+                                                <!-- Column 4 -->
+                                                <table class="ecommerce-four-image" width="50%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center">
+                                                            <a href="https://rothys.com/collections/mens-shoes?utm_source=Iterable&utm_medium=email&utm_campaign=02192022_DG_Sustainability_ProductPush_DGNL_FF&userId=285202ba0add95b761b56e1c6d0dc6a6&mi_u=285202ba0add95b761b56e1c6d0dc6a6&mi_ecmp=02192022_DG_Sustainability_ProductPush_DGNL_FF"
+                                                                target="_blank">
+                                                                <img src="/images/men's-shoes.png" alt="Men's shoes" style="width:300px;">
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <!-- End 2nd Row Section -->
+                            
+                                        <!-- Start 3rd Row Section -->
+                                        <tr>
+                                            <td align="center">
+                                                <!-- Column 5 -->
+                                                <table class="ecommerce-five-image" width="50%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center">
+                                                            <a href="https://rothys.com/collections/womens-handbags?mi_ecmp=02192022_DG_Sustainability_ProductPush_DGNL_FF&mi_u=285202ba0add95b761b56e1c6d0dc6a6&userId=285202ba0add95b761b56e1c6d0dc6a6&utm_campaign=02192022_DG_Sustainability_ProductPush_DGNL_FF&utm_medium=email&utm_source=Iterable"
+                                                                target="_blank">
+                                                                <img src="/images/bag's.png" alt="Rothy's bags" style="width:300px;">
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                            
+                                                <!-- Column 6 -->
+                                                <table class="ecommerce-six-image" width="50%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center">
+                                                            <a href="https://rothys.com/pages/stores?utm_source=Iterable&utm_medium=email&utm_campaign=02192022_DG_Sustainability_ProductPush_DGNL_FF&userId=285202ba0add95b761b56e1c6d0dc6a6&mi_u=285202ba0add95b761b56e1c6d0dc6a6&mi_ecmp=02192022_DG_Sustainability_ProductPush_DGNL_FF"
+                                                                target="_blank">
+                                                                <img src="/images/find-a-store.png" alt="Rothy's, find a store location"
+                                                                    style="width:300px;">
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <!-- End 3rd Row Section -->
+                            
+                                    </table>
+                                </td>
+                            </tr>
+                            <!-- End of Ecommerce Link -->
